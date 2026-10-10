@@ -1,3 +1,13 @@
+```text
+ _     _   _ ____    _    ____  _   _
+| |   | | | | __ )  / \  / ___|| | | |
+| |   | | | |  _ \ / _ \ \___ \| |_| |
+| |___| |_| | |_) / ___ \ ___) |  _  |
+|_____|\___/|____/_/   \_\____/|_| |_|
+
+       GOOGLE HACKING  •  FILE FINDER  v1.1
+```
+
 # LUBASH
 
 **Google Hacking File Finder | Reconnaissance & OSINT**
